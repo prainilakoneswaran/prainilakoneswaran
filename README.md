@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Nila 👋
 
-<!--
-**prainilakoneswaran/prainilakoneswaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Front-End Developer
+- Technical Instructor
+- HTML | CSS | Java Script
+- Git & GitHub
 
-Here are some ideas to get you started:
+## Skills
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Portfolio
+- Recipe finder
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/prainila-koneswaran-092755397/
